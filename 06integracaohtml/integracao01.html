@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Integração HTML e PHP</title>
+    <link rel="stylesheet" href="../_css/estilo.css">
+</head>
+<body>
+    <div>
+        <!--
+            Formulários
+            - action="arquivo.php": Relaciona o formulário com o arquivo PHP
+            - method="get": Mostra os valores recebidos na url
+            - method="post": Não mostra os valores na url
+            - name="nome": Nome utilizado para selecionar o input no PHP
+        -->
+        <h1>Calculadora de Raíz</h1>
+        <form action="valor01.php" method="get">
+            <p>Digite um número: <input type="number" name="n" ></p>
+            <input type="submit" value="Calcular">
+        </form>
+    </div>
+</body>
+</html>
