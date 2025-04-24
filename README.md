@@ -6,7 +6,7 @@ Arquivos de aprendizagem do curso de PHP Básico realizado no [Curso em Vídeo](
 * [Introdução](#Introdução)
   * [Estrutura](#Estrutura)   
   * [Conteúdo Abordado](#Conteúdo-Abordado) 
-* [Como Testar?](#Como-Testar?) 
+* [Como Testar](#Como-Testar) 
 * [Status do Curso](#Status-do-Curso)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Autor](#Autor)
@@ -46,7 +46,7 @@ Os comentários inseridos no código dos arquivos contêm informações e explic
 * [Vetores e Matrizes](https://github.com/gbr-developer/curso_php/tree/main/15vetores_matrizes)
 * [Funções para manipulação de vetores](https://github.com/gbr-developer/curso_php/tree/main/16funcoes_vetores)
    
-## Como testar?  
+## Como testar  
 O PHP é uma linguagem executada no lado servidor, então para testar os arquivos, é necessário que você tenha acesso a um servidor. Por serem códigos simples, é recomendado que você utilize um servidor local (alocado na própria máquina).  
   
 Quer testar os programas? Então siga o passo a passo recomendado:   
